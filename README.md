@@ -90,4 +90,4 @@ INSERT INTO Marvels VALUES(26, 'Professor X', 58, 'Good', 'Male', 1.83, 86, 'EUA
 ```
 
 # credit
-Thanks Mentrasto for the Marvel hearoes list: https://gist.github.com/Mentrasto/967148a4b41713977839
+Thanks Mentrasto for the Marvel heroes list: https://gist.github.com/Mentrasto/967148a4b41713977839
